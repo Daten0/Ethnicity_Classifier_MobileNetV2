@@ -1,6 +1,6 @@
 # **Projek UAS**
 
-` Pengembangan model Algoritma Deep Learning klasifikasi ras/etnis dari Dataset FairFace Label menggunakan MobileNetV2 `
+`Pengembangan model Algoritma Deep Learning klasifikasi ras/etnis dari Dataset FairFace Label menggunakan MobileNetV2`
 
 -----
 
